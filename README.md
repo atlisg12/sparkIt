@@ -12,6 +12,7 @@ Runs on (tested on):
 index.html                | specific.html
 --------------------------|-------------------------------
 ![random](img/random.png) | ![specific](img/specific.png)
+[Build Status](https://travis-ci.org/atlisg12/sparkIt.svg?branch=master)](https://travis-ci.org/atlisg12/sparkIt)
 
 ## Getting started
 
@@ -72,4 +73,3 @@ sudo ln -s /opt/firefox28/firefox /usr/bin/firefox
 #### And what? ...
 Gradle creates test reports for us. Look at the `build/reports` folder for more sweet Gradle juice.
 
-[![Build Status](https://travis-ci.org/atlisg12/sparkIt.svg?branch=master)](https://travis-ci.org/atlisg12/sparkIt)
